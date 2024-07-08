@@ -7,4 +7,9 @@
 <p>- HTML</p>
 <p>- CSS</p>
 <br>
-<imm src="./"
+<h3>Desktop</h3>
+<img src="./assets/easy-shopping-desktop.png" />
+<br>
+<h3>Mobile</h3>
+<img src="./assets/easy-shopping-mobile.png" />
+
